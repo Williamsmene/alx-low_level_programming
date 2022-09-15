@@ -1,1 +1,1 @@
-Write a script that compiles a c file
+Write a script that generates the assembly code
