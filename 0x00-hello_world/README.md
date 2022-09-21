@@ -1,1 +1,1 @@
-Write a script that generates the assembly code
+Write a c program that prints
