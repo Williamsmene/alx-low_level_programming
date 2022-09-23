@@ -1,1 +1,1 @@
-This program will assign a random numberto the variable n
+Write a program that prints the alphabet in lowercase
