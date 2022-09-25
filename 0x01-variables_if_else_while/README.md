@@ -1,1 +1,1 @@
-Write a program that prints all single digit numbers
+write a program that prints all single digit numbers
