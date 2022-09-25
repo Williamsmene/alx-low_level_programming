@@ -1,1 +1,1 @@
-Write a program that prints in lowercase
+Write a program that prints all single digit numbers
